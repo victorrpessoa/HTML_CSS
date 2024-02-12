@@ -1,2 +1,5 @@
 # html_css
- Repositório de sites de teste criados com HTML e CSS
+
+ Criei este repositório para mostrar os projetos que desenvolvi durante o curso de HTML e CSS ministrado pelo professor Gustavo Guanabara na plataforma online do Curso em Vídeo.
+
+ <a href="https://victorrpessoa.github.io/html_css/android/index.html">Primeiro Site - Como surgiu o mascote do Android?</a>
