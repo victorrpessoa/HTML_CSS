@@ -3,7 +3,7 @@
 *{
     margin: 0px;
     padding: 0px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 html, body {
@@ -42,7 +42,7 @@ main {
 #redessociais {
     position: relative;
     text-align: center;
-    padding: 20px;
+    padding: 10px;
 }
 img {
     width: 50px;
@@ -56,4 +56,19 @@ img:hover {
     transform: translate(-2px, -2px);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.6);
     transition: transform 0.3s, box-shadow 0.3s;
+}
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+footer > p {
+    max-width: 800px;
+    margin: auto;
+}
+footer a {
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
 }
