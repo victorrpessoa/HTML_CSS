@@ -14,7 +14,7 @@ html, body {
 body {
     height: 100vh;
     width: 100vw;
-    background: url('files/imagens/fundo-madeira.jpg') no-repeat top center;
+    background: url('files/imagens/fundo-madeira.jpg');
     background-size: cover;
     background-attachment: fixed;
 }
@@ -40,10 +40,11 @@ main {
     border-radius: 25px;
 }
 #redessociais {
-    text-align: right;
+    text-align: center;
+    padding-top: 30px;
 }
 img {
-    width: 35px;
+    width: 50px;
     margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
