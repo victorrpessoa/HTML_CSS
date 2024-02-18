@@ -29,7 +29,7 @@ main {
     transform: translate(-50%, -50%);
     height: 584px;
     width: 288px;
-    background: url('files/imagens/frame-samsunga54.png') no-repeat;
+    background: url('files/imagens/frame-samsunga54.png') top center;
 }
 #tela {
     position: relative;
@@ -42,7 +42,7 @@ main {
 #redessociais {
     position: relative;
     text-align: center;
-    padding-top: 30px;
+    padding-top: 10px;
 }
 img {
     width: 50px;
