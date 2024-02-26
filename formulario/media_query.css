@@ -28,6 +28,9 @@ Grandes telas: acima de 1280px
         float: right;
         width: 70%;
     }
+    .campo > input {
+        transform: translateY(-7px);
+    }
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1280px) {
@@ -48,11 +51,14 @@ Grandes telas: acima de 1280px
         float: left;
         width: 60%;
     }
-    p {
+    h1 {
         font-size: 1.5em;
     }
     p {
         font-size: 1em;
+    }
+    .campo > input {
+        transform: translateY(-7px);
     }
 }
 
@@ -79,5 +85,8 @@ Grandes telas: acima de 1280px
     }
     p {
         font-size: 1.2em;
+    }
+    .campo > input {
+        transform: translateY(-7px);
     }
 }

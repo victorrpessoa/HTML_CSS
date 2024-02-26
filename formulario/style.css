@@ -78,7 +78,7 @@ p {
     border: none;
     border-radius: 8px;
     padding: 4px;
-    transform: translateY(-7px);
+    transform: translateY(-8px);
 }
 .campo > input:focus-within {
     background-color: white;
@@ -113,4 +113,20 @@ form > input[type=submit]:hover {
 }
 .botao:hover {
     background-color: #69e2de;
+}
+footer {
+    font-size: 1.2em;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+footer > p {
+    max-width: 800px;
+    margin: auto;
+}
+footer a {
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
 }
