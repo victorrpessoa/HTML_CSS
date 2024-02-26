@@ -29,7 +29,7 @@ Grandes telas: acima de 1280px
         width: 70%;
     }
     .campo > input {
-        transform: translateY(-7px);
+        transform: translateY(-8px);
     }
 }
 
@@ -58,7 +58,7 @@ Grandes telas: acima de 1280px
         font-size: 1em;
     }
     .campo > input {
-        transform: translateY(-7px);
+        transform: translateY(-8px);
     }
 }
 
